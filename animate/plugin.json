@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "animate",
+  "displayName": "Animate",
+  "version": "0.5.0",
+  "description": "Make short procedural animations in any style (explainers, histories, product reels, little stories) as single-file canvas videos for Antigravity, OpenCode, Codex, and Claude Code.",
+  "author": {
+    "name": "cth9191"
+  },
+  "license": "MIT",
+  "skills": "./.agents/skills",
+  "keywords": [
+    "animation",
+    "canvas",
+    "video",
+    "explainer",
+    "storyboard",
+    "procedural",
+    "motion-graphics",
+    "style-transfer"
+  ],
+  "suggestedPrompts": [
+    "Make a 45-second history of the bicycle in cut-paper style",
+    "Explain how a hash map works in the math style",
+    "Create a 20-second launch reel in isometric style for 9:16 and 16:9"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "opencode-animate",
+  "version": "0.5.0",
+  "description": "OpenCode plugin exposing procedural canvas animation tools (build, still, tile, storyboard, export, review, gallery, beats, capture, voice, compare) for the animate skill.",
+  "type": "module",
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@opencode-ai/plugin": "^0.1.0"
+  },
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "animation",
+    "canvas",
+    "video",
+    "motion-graphics"
+  ],
+  "license": "MIT"
+}
